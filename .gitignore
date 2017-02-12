@@ -1,0 +1,2 @@
+$ git remote add origin https://github.com//first_app.git
+$ git push -u orgin master
