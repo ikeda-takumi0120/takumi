@@ -1,2 +1,2 @@
-$ git remote add origin https://github.com//first_app.git
+$ git remote add origin file:///Users/takumifam/Desktop/テトリス.html
 $ git push -u orgin master
